@@ -2,7 +2,7 @@
 
 This project analyzes an online retail dataset using SQL to generate business insights on sales performance, returns, and customer behavior.
 
-<img width="670" height="441" alt="i" src="https://github.com/user-attachments/assets/1044be2e-c693-482a-9015-02a25ee6d870" />
+<img width="800" height="441" alt="i" src="https://github.com/user-attachments/assets/1044be2e-c693-482a-9015-02a25ee6d870" />
 
 
 ## Key Analysis
