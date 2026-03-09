@@ -12,12 +12,12 @@ This project analyzes an online retail dataset using SQL to generate business in
 - Customer purchase behavior and repeat buyers
 - Return rate analysis and loss identification
 
-## Business Impact & Insights**
+## Business Impact & Insights
 
-- Identified **high-performing products and underperforming products** to help optimize inventory.  
-- Highlighted **top-performing countries** and markets to focus marketing and expansion strategies.  
-- Calculated **return rates per product**, helping reduce losses and improve customer satisfaction.  
-- Determined **revenue trends over time** to support pricing and promotional strategies.  
+- Identified 'high-performing products and underperforming products' to help optimize inventory.  
+- Highlighted 'top-performing countries' and markets to focus marketing and expansion strategies.  
+- Calculated 'return rates per product', helping reduce losses and improve customer satisfaction.  
+- Determined 'revenue trends over time' to support pricing and promotional strategies.  
 
 ## Tools Used
 SQL, Excel, Data Cleaning, Data Analysis
