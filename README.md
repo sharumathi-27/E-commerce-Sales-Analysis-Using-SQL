@@ -1,4 +1,4 @@
-# E-commerce-Sales-Analysis-Using-SQL
+# E-commerce Sales Analysis Using SQL
 
 This project analyzes an online retail dataset using SQL to generate business insights on sales performance, returns, and customer behavior.
 
